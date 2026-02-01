@@ -1,1 +1,2 @@
-conflict file branch2
+
+conflict file branch1
